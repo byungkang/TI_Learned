@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kbhoo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Queue\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{50CE8400-B8A3-4BDD-9E3B-4B493F1BCB77}|Queue\\Queue.vcxproj|C:\\Users\\kbhoo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Queue\\Queue\\Queue.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{50CE8400-B8A3-4BDD-9E3B-4B493F1BCB77}|Queue\\Queue.vcxproj|solutionrelative:Queue\\Queue.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 331,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Queue.cpp",
+              "DocumentMoniker": "C:\\Users\\kbhoo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Queue\\Queue\\Queue.cpp",
+              "RelativeDocumentMoniker": "Queue\\Queue.cpp",
+              "ToolTip": "C:\\Users\\kbhoo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Queue\\Queue\\Queue.cpp",
+              "RelativeToolTip": "Queue\\Queue.cpp",
+              "ViewState": "AgIAACIAAAAAAAAAAAAIwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-11T19:03:32.168Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

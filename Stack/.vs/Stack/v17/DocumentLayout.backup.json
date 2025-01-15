@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kbhoo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Stack\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7EC43E7E-0503-4B56-B9C0-31191D0A09FE}|Stack\\Stack.vcxproj|C:\\Users\\kbhoo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Stack\\Stack\\Stack.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7EC43E7E-0503-4B56-B9C0-31191D0A09FE}|Stack\\Stack.vcxproj|solutionrelative:Stack\\Stack.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 331,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Stack.cpp",
+              "DocumentMoniker": "C:\\Users\\kbhoo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Stack\\Stack\\Stack.cpp",
+              "RelativeDocumentMoniker": "Stack\\Stack.cpp",
+              "ToolTip": "C:\\Users\\kbhoo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Stack\\Stack\\Stack.cpp",
+              "RelativeToolTip": "Stack\\Stack.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-07T15:21:12.537Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

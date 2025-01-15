@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kbhoo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Tree\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1CAE6411-C625-4C8F-948B-5B04CBB4DB94}|Tree\\Tree.vcxproj|C:\\Users\\kbhoo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Tree\\Tree\\Tree.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1CAE6411-C625-4C8F-948B-5B04CBB4DB94}|Tree\\Tree.vcxproj|solutionrelative:Tree\\Tree.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 331,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Tree.cpp",
+              "DocumentMoniker": "C:\\Users\\kbhoo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Tree\\Tree\\Tree.cpp",
+              "RelativeDocumentMoniker": "Tree\\Tree.cpp",
+              "ToolTip": "C:\\Users\\kbhoo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Tree\\Tree\\Tree.cpp",
+              "RelativeToolTip": "Tree\\Tree.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-11T19:14:40.543Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+﻿  Queue.cpp
+C:\Users\kbhoo\OneDrive\바탕 화면\Queue\Queue\Queue.cpp(17,10): warning C4834: [[nodiscard]] 특성이 포함된 함수의 반환 값을 버리는 중입니다.
+C:\Users\kbhoo\OneDrive\바탕 화면\Queue\Queue\Queue.cpp(19,6): warning C4834: [[nodiscard]] 특성이 포함된 함수의 반환 값을 버리는 중입니다.
+C:\Users\kbhoo\OneDrive\바탕 화면\Queue\Queue\Queue.cpp(20,6): warning C4834: [[nodiscard]] 특성이 포함된 함수의 반환 값을 버리는 중입니다.
+  Queue.vcxproj -> C:\Users\kbhoo\OneDrive\바탕 화면\Queue\x64\Debug\Queue.exe

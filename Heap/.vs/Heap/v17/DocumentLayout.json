@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kbhoo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Heap\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0768C6ED-D796-42AB-9E52-AF4E01D3B415}|Heap\\Heap.vcxproj|C:\\Users\\kbhoo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Heap\\Heap\\Heap.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0768C6ED-D796-42AB-9E52-AF4E01D3B415}|Heap\\Heap.vcxproj|solutionrelative:Heap\\Heap.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 331,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Heap.cpp",
+              "DocumentMoniker": "C:\\Users\\kbhoo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Heap\\Heap\\Heap.cpp",
+              "RelativeDocumentMoniker": "Heap\\Heap.cpp",
+              "ToolTip": "C:\\Users\\kbhoo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Heap\\Heap\\Heap.cpp",
+              "RelativeToolTip": "Heap\\Heap.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-13T14:15:24.652Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
