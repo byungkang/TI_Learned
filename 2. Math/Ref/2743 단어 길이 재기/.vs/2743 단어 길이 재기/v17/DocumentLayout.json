@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kbhoo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Data Structure 1\\ref\\2743 \uB2E8\uC5B4 \uAE38\uC774 \uC7AC\uAE30\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5C0CE7EB-ADDA-4375-AC63-C938962C34BF}|2743 \uB2E8\uC5B4 \uAE38\uC774 \uC7AC\uAE30\\2743 \uB2E8\uC5B4 \uAE38\uC774 \uC7AC\uAE30.vcxproj|C:\\Users\\kbhoo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Data Structure 1\\ref\\2743 \uB2E8\uC5B4 \uAE38\uC774 \uC7AC\uAE30\\2743 \uB2E8\uC5B4 \uAE38\uC774 \uC7AC\uAE30\\Exam.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5C0CE7EB-ADDA-4375-AC63-C938962C34BF}|2743 \uB2E8\uC5B4 \uAE38\uC774 \uC7AC\uAE30\\2743 \uB2E8\uC5B4 \uAE38\uC774 \uC7AC\uAE30.vcxproj|solutionrelative:2743 \uB2E8\uC5B4 \uAE38\uC774 \uC7AC\uAE30\\Exam.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 331,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Exam.cpp",
+              "DocumentMoniker": "C:\\Users\\kbhoo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Data Structure 1\\ref\\2743 \uB2E8\uC5B4 \uAE38\uC774 \uC7AC\uAE30\\2743 \uB2E8\uC5B4 \uAE38\uC774 \uC7AC\uAE30\\Exam.cpp",
+              "RelativeDocumentMoniker": "2743 \uB2E8\uC5B4 \uAE38\uC774 \uC7AC\uAE30\\Exam.cpp",
+              "ToolTip": "C:\\Users\\kbhoo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Data Structure 1\\ref\\2743 \uB2E8\uC5B4 \uAE38\uC774 \uC7AC\uAE30\\2743 \uB2E8\uC5B4 \uAE38\uC774 \uC7AC\uAE30\\Exam.cpp",
+              "RelativeToolTip": "2743 \uB2E8\uC5B4 \uAE38\uC774 \uC7AC\uAE30\\Exam.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-01T07:57:11.127Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
