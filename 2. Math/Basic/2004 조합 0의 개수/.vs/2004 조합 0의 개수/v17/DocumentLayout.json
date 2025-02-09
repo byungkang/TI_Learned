@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\kbhoo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Data Structure 1\\Math\\2004 \uC870\uD569 0\uC758 \uAC1C\uC218\\",
+  "WorkspaceRootPath": "D:\\Github\\TI_Learned\\2. Math\\Basic\\2004 \uC870\uD569 0\uC758 \uAC1C\uC218\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{375A9403-D480-4209-A054-041395663510}|2004 \uC870\uD569 0\uC758 \uAC1C\uC218\\2004 \uC870\uD569 0\uC758 \uAC1C\uC218.vcxproj|C:\\Users\\kbhoo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Data Structure 1\\Math\\2004 \uC870\uD569 0\uC758 \uAC1C\uC218\\2004 \uC870\uD569 0\uC758 \uAC1C\uC218\\Exam.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{375A9403-D480-4209-A054-041395663510}|2004 \uC870\uD569 0\uC758 \uAC1C\uC218\\2004 \uC870\uD569 0\uC758 \uAC1C\uC218.vcxproj|D:\\Github\\TI_Learned\\2. Math\\Basic\\2004 \uC870\uD569 0\uC758 \uAC1C\uC218\\2004 \uC870\uD569 0\uC758 \uAC1C\uC218\\Exam.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{375A9403-D480-4209-A054-041395663510}|2004 \uC870\uD569 0\uC758 \uAC1C\uC218\\2004 \uC870\uD569 0\uC758 \uAC1C\uC218.vcxproj|solutionrelative:2004 \uC870\uD569 0\uC758 \uAC1C\uC218\\Exam.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Exam.cpp",
-              "DocumentMoniker": "C:\\Users\\kbhoo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Data Structure 1\\Math\\2004 \uC870\uD569 0\uC758 \uAC1C\uC218\\2004 \uC870\uD569 0\uC758 \uAC1C\uC218\\Exam.cpp",
+              "DocumentMoniker": "D:\\Github\\TI_Learned\\2. Math\\Basic\\2004 \uC870\uD569 0\uC758 \uAC1C\uC218\\2004 \uC870\uD569 0\uC758 \uAC1C\uC218\\Exam.cpp",
               "RelativeDocumentMoniker": "2004 \uC870\uD569 0\uC758 \uAC1C\uC218\\Exam.cpp",
-              "ToolTip": "C:\\Users\\kbhoo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Data Structure 1\\Math\\2004 \uC870\uD569 0\uC758 \uAC1C\uC218\\2004 \uC870\uD569 0\uC758 \uAC1C\uC218\\Exam.cpp",
+              "ToolTip": "D:\\Github\\TI_Learned\\2. Math\\Basic\\2004 \uC870\uD569 0\uC758 \uAC1C\uC218\\2004 \uC870\uD569 0\uC758 \uAC1C\uC218\\Exam.cpp",
               "RelativeToolTip": "2004 \uC870\uD569 0\uC758 \uAC1C\uC218\\Exam.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-02-08T16:02:30.695Z",
               "EditorCaption": ""
