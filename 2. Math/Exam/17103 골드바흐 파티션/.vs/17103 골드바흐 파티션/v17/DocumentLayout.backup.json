@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kbhoo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Study\\17103 \uACE8\uB4DC\uBC14\uD750 \uD30C\uD2F0\uC158\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{988D25F6-8737-4969-92CC-5D091000D3B8}|17103 \uACE8\uB4DC\uBC14\uD750 \uD30C\uD2F0\uC158\\17103 \uACE8\uB4DC\uBC14\uD750 \uD30C\uD2F0\uC158.vcxproj|C:\\Users\\kbhoo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Study\\17103 \uACE8\uB4DC\uBC14\uD750 \uD30C\uD2F0\uC158\\17103 \uACE8\uB4DC\uBC14\uD750 \uD30C\uD2F0\uC158\\Exam.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{988D25F6-8737-4969-92CC-5D091000D3B8}|17103 \uACE8\uB4DC\uBC14\uD750 \uD30C\uD2F0\uC158\\17103 \uACE8\uB4DC\uBC14\uD750 \uD30C\uD2F0\uC158.vcxproj|solutionrelative:17103 \uACE8\uB4DC\uBC14\uD750 \uD30C\uD2F0\uC158\\Exam.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 331,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Exam.cpp",
+              "DocumentMoniker": "C:\\Users\\kbhoo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Study\\17103 \uACE8\uB4DC\uBC14\uD750 \uD30C\uD2F0\uC158\\17103 \uACE8\uB4DC\uBC14\uD750 \uD30C\uD2F0\uC158\\Exam.cpp",
+              "RelativeDocumentMoniker": "17103 \uACE8\uB4DC\uBC14\uD750 \uD30C\uD2F0\uC158\\Exam.cpp",
+              "ToolTip": "C:\\Users\\kbhoo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Study\\17103 \uACE8\uB4DC\uBC14\uD750 \uD30C\uD2F0\uC158\\17103 \uACE8\uB4DC\uBC14\uD750 \uD30C\uD2F0\uC158\\Exam.cpp*",
+              "RelativeToolTip": "17103 \uACE8\uB4DC\uBC14\uD750 \uD30C\uD2F0\uC158\\Exam.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-09T14:32:25.363Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
