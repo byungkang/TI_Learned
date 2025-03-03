@@ -1,0 +1,3 @@
+﻿  Exam.cpp
+C:\Users\kbhoo\OneDrive\바탕 화면\Study\14889 스타트와 링크\14889 스타트와 링크\Exam.cpp(14,9): warning C4804: '>=': 연산에 'bool' 형식을 사용하는 것은 안전하지 않습니다.
+  14889 스타트와 링크.vcxproj -> C:\Users\kbhoo\OneDrive\바탕 화면\Study\14889 스타트와 링크\x64\Debug\14889 스타트와 링크.exe

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kbhoo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Study\\\uC21C\uC5F4\\10972 \uB2E4\uC74C \uC21C\uC5F4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9CA87322-F576-4B25-85CE-2A92485880E7}|10972 \uB2E4\uC74C \uC21C\uC5F4\\10972 \uB2E4\uC74C \uC21C\uC5F4.vcxproj|C:\\Users\\kbhoo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Study\\\uC21C\uC5F4\\10972 \uB2E4\uC74C \uC21C\uC5F4\\10972 \uB2E4\uC74C \uC21C\uC5F4\\Exam.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9CA87322-F576-4B25-85CE-2A92485880E7}|10972 \uB2E4\uC74C \uC21C\uC5F4\\10972 \uB2E4\uC74C \uC21C\uC5F4.vcxproj|solutionrelative:10972 \uB2E4\uC74C \uC21C\uC5F4\\Exam.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Exam.cpp",
+              "DocumentMoniker": "C:\\Users\\kbhoo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Study\\\uC21C\uC5F4\\10972 \uB2E4\uC74C \uC21C\uC5F4\\10972 \uB2E4\uC74C \uC21C\uC5F4\\Exam.cpp",
+              "RelativeDocumentMoniker": "10972 \uB2E4\uC74C \uC21C\uC5F4\\Exam.cpp",
+              "ToolTip": "C:\\Users\\kbhoo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Study\\\uC21C\uC5F4\\10972 \uB2E4\uC74C \uC21C\uC5F4\\10972 \uB2E4\uC74C \uC21C\uC5F4\\Exam.cpp",
+              "RelativeToolTip": "10972 \uB2E4\uC74C \uC21C\uC5F4\\Exam.cpp",
+              "ViewState": "AgIAADYAAAAAAAAAAAAkwEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-25T14:35:11.797Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

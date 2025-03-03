@@ -1,0 +1,5 @@
+﻿  Exam.cpp
+C:\Users\kbhoo\OneDrive\바탕 화면\Study\6064 카잉 달력\6064 카잉 달력\Exam.cpp(20,1): error C4700: 초기화되지 않은 'x' 지역 변수를 사용했습니다.
+C:\Users\kbhoo\OneDrive\바탕 화면\Study\6064 카잉 달력\6064 카잉 달력\Exam.cpp(20,1): error C4700: 초기화되지 않은 'y' 지역 변수를 사용했습니다.
+C:\Users\kbhoo\OneDrive\바탕 화면\Study\6064 카잉 달력\6064 카잉 달력\Exam.cpp(25,1): error C4700: 초기화되지 않은 'M' 지역 변수를 사용했습니다.
+C:\Users\kbhoo\OneDrive\바탕 화면\Study\6064 카잉 달력\6064 카잉 달력\Exam.cpp(25,1): error C4700: 초기화되지 않은 'N' 지역 변수를 사용했습니다.

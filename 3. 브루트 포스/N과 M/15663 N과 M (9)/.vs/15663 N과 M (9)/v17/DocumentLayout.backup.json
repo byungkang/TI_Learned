@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kbhoo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Study\\15663 N\uACFC M (9)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{435AAA52-8DBC-4B26-AFC3-E812CBDF0D39}|15663 N\uACFC M (9)\\15663 N\uACFC M (9).vcxproj|C:\\Users\\kbhoo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Study\\15663 N\uACFC M (9)\\15663 N\uACFC M (9)\\Exam.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{435AAA52-8DBC-4B26-AFC3-E812CBDF0D39}|15663 N\uACFC M (9)\\15663 N\uACFC M (9).vcxproj|solutionrelative:15663 N\uACFC M (9)\\Exam.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Exam.cpp",
+              "DocumentMoniker": "C:\\Users\\kbhoo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Study\\15663 N\uACFC M (9)\\15663 N\uACFC M (9)\\Exam.cpp",
+              "RelativeDocumentMoniker": "15663 N\uACFC M (9)\\Exam.cpp",
+              "ToolTip": "C:\\Users\\kbhoo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Study\\15663 N\uACFC M (9)\\15663 N\uACFC M (9)\\Exam.cpp*",
+              "RelativeToolTip": "15663 N\uACFC M (9)\\Exam.cpp*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-23T09:40:59.341Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
