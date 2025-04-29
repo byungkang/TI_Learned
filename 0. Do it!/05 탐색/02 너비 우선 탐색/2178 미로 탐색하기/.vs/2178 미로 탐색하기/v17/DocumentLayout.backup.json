@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kbhoo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Study\\0. Do it!\\05 \uD0D0\uC0C9\\02 \uB108\uBE44 \uC6B0\uC120 \uD0D0\uC0C9\\2178 \uBBF8\uB85C \uD0D0\uC0C9\uD558\uAE30\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{77AD9A75-6373-49AA-9795-BB893E1A8EAE}|2178 \uBBF8\uB85C \uD0D0\uC0C9\uD558\uAE30\\2178 \uBBF8\uB85C \uD0D0\uC0C9\uD558\uAE30.vcxproj|C:\\Users\\kbhoo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Study\\0. Do it!\\05 \uD0D0\uC0C9\\02 \uB108\uBE44 \uC6B0\uC120 \uD0D0\uC0C9\\2178 \uBBF8\uB85C \uD0D0\uC0C9\uD558\uAE30\\2178 \uBBF8\uB85C \uD0D0\uC0C9\uD558\uAE30\\Good.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{77AD9A75-6373-49AA-9795-BB893E1A8EAE}|2178 \uBBF8\uB85C \uD0D0\uC0C9\uD558\uAE30\\2178 \uBBF8\uB85C \uD0D0\uC0C9\uD558\uAE30.vcxproj|solutionrelative:2178 \uBBF8\uB85C \uD0D0\uC0C9\uD558\uAE30\\Good.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77AD9A75-6373-49AA-9795-BB893E1A8EAE}|2178 \uBBF8\uB85C \uD0D0\uC0C9\uD558\uAE30\\2178 \uBBF8\uB85C \uD0D0\uC0C9\uD558\uAE30.vcxproj|C:\\Users\\kbhoo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Study\\0. Do it!\\05 \uD0D0\uC0C9\\02 \uB108\uBE44 \uC6B0\uC120 \uD0D0\uC0C9\\2178 \uBBF8\uB85C \uD0D0\uC0C9\uD558\uAE30\\2178 \uBBF8\uB85C \uD0D0\uC0C9\uD558\uAE30\\Exam.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{77AD9A75-6373-49AA-9795-BB893E1A8EAE}|2178 \uBBF8\uB85C \uD0D0\uC0C9\uD558\uAE30\\2178 \uBBF8\uB85C \uD0D0\uC0C9\uD558\uAE30.vcxproj|solutionrelative:2178 \uBBF8\uB85C \uD0D0\uC0C9\uD558\uAE30\\Exam.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Exam.cpp",
+              "DocumentMoniker": "C:\\Users\\kbhoo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Study\\0. Do it!\\05 \uD0D0\uC0C9\\02 \uB108\uBE44 \uC6B0\uC120 \uD0D0\uC0C9\\2178 \uBBF8\uB85C \uD0D0\uC0C9\uD558\uAE30\\2178 \uBBF8\uB85C \uD0D0\uC0C9\uD558\uAE30\\Exam.cpp",
+              "RelativeDocumentMoniker": "2178 \uBBF8\uB85C \uD0D0\uC0C9\uD558\uAE30\\Exam.cpp",
+              "ToolTip": "C:\\Users\\kbhoo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Study\\0. Do it!\\05 \uD0D0\uC0C9\\02 \uB108\uBE44 \uC6B0\uC120 \uD0D0\uC0C9\\2178 \uBBF8\uB85C \uD0D0\uC0C9\uD558\uAE30\\2178 \uBBF8\uB85C \uD0D0\uC0C9\uD558\uAE30\\Exam.cpp",
+              "RelativeToolTip": "2178 \uBBF8\uB85C \uD0D0\uC0C9\uD558\uAE30\\Exam.cpp",
+              "ViewState": "AgIAAA8AAAAAAAAAAADwvzkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-14T14:06:36.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Good.cpp",
+              "DocumentMoniker": "C:\\Users\\kbhoo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Study\\0. Do it!\\05 \uD0D0\uC0C9\\02 \uB108\uBE44 \uC6B0\uC120 \uD0D0\uC0C9\\2178 \uBBF8\uB85C \uD0D0\uC0C9\uD558\uAE30\\2178 \uBBF8\uB85C \uD0D0\uC0C9\uD558\uAE30\\Good.cpp",
+              "RelativeDocumentMoniker": "2178 \uBBF8\uB85C \uD0D0\uC0C9\uD558\uAE30\\Good.cpp",
+              "ToolTip": "C:\\Users\\kbhoo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Study\\0. Do it!\\05 \uD0D0\uC0C9\\02 \uB108\uBE44 \uC6B0\uC120 \uD0D0\uC0C9\\2178 \uBBF8\uB85C \uD0D0\uC0C9\uD558\uAE30\\2178 \uBBF8\uB85C \uD0D0\uC0C9\uD558\uAE30\\Good.cpp",
+              "RelativeToolTip": "2178 \uBBF8\uB85C \uD0D0\uC0C9\uD558\uAE30\\Good.cpp",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAhwBgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-14T14:03:56.037Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

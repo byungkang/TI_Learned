@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1285 동전 뒤집기", "1285 동전 뒤집기\1285 동전 뒤집기.vcxproj", "{551A4A5F-5FBF-484D-92EF-B24D9EEBB66B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{551A4A5F-5FBF-484D-92EF-B24D9EEBB66B}.Debug|x64.ActiveCfg = Debug|x64
+		{551A4A5F-5FBF-484D-92EF-B24D9EEBB66B}.Debug|x64.Build.0 = Debug|x64
+		{551A4A5F-5FBF-484D-92EF-B24D9EEBB66B}.Debug|x86.ActiveCfg = Debug|Win32
+		{551A4A5F-5FBF-484D-92EF-B24D9EEBB66B}.Debug|x86.Build.0 = Debug|Win32
+		{551A4A5F-5FBF-484D-92EF-B24D9EEBB66B}.Release|x64.ActiveCfg = Release|x64
+		{551A4A5F-5FBF-484D-92EF-B24D9EEBB66B}.Release|x64.Build.0 = Release|x64
+		{551A4A5F-5FBF-484D-92EF-B24D9EEBB66B}.Release|x86.ActiveCfg = Release|Win32
+		{551A4A5F-5FBF-484D-92EF-B24D9EEBB66B}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F53CCA5F-6012-459F-BC8F-AF4D413FCFFE}
+	EndGlobalSection
+EndGlobal

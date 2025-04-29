@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kbhoo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Study\\0. Do it!\\03 \uC790\uB8CC\uAD6C\uC870\\04 \uC2AC\uB77C\uC774\uB529 \uC708\uB3C4\uC6B0\\11003 \uCD5C\uC19F\uAC12 \uCC3E\uAE30\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1BC201C4-9125-4702-BBA7-A0BE6E2F14E8}|11003 \uCD5C\uC19F\uAC12 \uCC3E\uAE30\\11003 \uCD5C\uC19F\uAC12 \uCC3E\uAE30.vcxproj|C:\\Users\\kbhoo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Study\\0. Do it!\\03 \uC790\uB8CC\uAD6C\uC870\\04 \uC2AC\uB77C\uC774\uB529 \uC708\uB3C4\uC6B0\\11003 \uCD5C\uC19F\uAC12 \uCC3E\uAE30\\11003 \uCD5C\uC19F\uAC12 \uCC3E\uAE30\\Exam.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1BC201C4-9125-4702-BBA7-A0BE6E2F14E8}|11003 \uCD5C\uC19F\uAC12 \uCC3E\uAE30\\11003 \uCD5C\uC19F\uAC12 \uCC3E\uAE30.vcxproj|solutionrelative:11003 \uCD5C\uC19F\uAC12 \uCC3E\uAE30\\Exam.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Exam.cpp",
+              "DocumentMoniker": "C:\\Users\\kbhoo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Study\\0. Do it!\\03 \uC790\uB8CC\uAD6C\uC870\\04 \uC2AC\uB77C\uC774\uB529 \uC708\uB3C4\uC6B0\\11003 \uCD5C\uC19F\uAC12 \uCC3E\uAE30\\11003 \uCD5C\uC19F\uAC12 \uCC3E\uAE30\\Exam.cpp",
+              "RelativeDocumentMoniker": "11003 \uCD5C\uC19F\uAC12 \uCC3E\uAE30\\Exam.cpp",
+              "ToolTip": "C:\\Users\\kbhoo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Study\\0. Do it!\\03 \uC790\uB8CC\uAD6C\uC870\\04 \uC2AC\uB77C\uC774\uB529 \uC708\uB3C4\uC6B0\\11003 \uCD5C\uC19F\uAC12 \uCC3E\uAE30\\11003 \uCD5C\uC19F\uAC12 \uCC3E\uAE30\\Exam.cpp",
+              "RelativeToolTip": "11003 \uCD5C\uC19F\uAC12 \uCC3E\uAE30\\Exam.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-26T16:46:18.536Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

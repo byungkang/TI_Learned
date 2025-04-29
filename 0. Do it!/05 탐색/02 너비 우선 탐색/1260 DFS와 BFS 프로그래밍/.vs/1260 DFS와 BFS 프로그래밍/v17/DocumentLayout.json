@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kbhoo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Study\\0. Do it!\\05 \uD0D0\uC0C9\\02 \uB108\uBE44 \uC6B0\uC120 \uD0D0\uC0C9\\1260 DFS\uC640 BFS \uD504\uB85C\uADF8\uB798\uBC0D\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{086EC52F-FFBB-4127-9F7B-FDE0BB8D1100}|1260 DFS\uC640 BFS \uD504\uB85C\uADF8\uB798\uBC0D\\1260 DFS\uC640 BFS \uD504\uB85C\uADF8\uB798\uBC0D.vcxproj|C:\\Users\\kbhoo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Study\\0. Do it!\\05 \uD0D0\uC0C9\\02 \uB108\uBE44 \uC6B0\uC120 \uD0D0\uC0C9\\1260 DFS\uC640 BFS \uD504\uB85C\uADF8\uB798\uBC0D\\1260 DFS\uC640 BFS \uD504\uB85C\uADF8\uB798\uBC0D\\Exam.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{086EC52F-FFBB-4127-9F7B-FDE0BB8D1100}|1260 DFS\uC640 BFS \uD504\uB85C\uADF8\uB798\uBC0D\\1260 DFS\uC640 BFS \uD504\uB85C\uADF8\uB798\uBC0D.vcxproj|solutionrelative:1260 DFS\uC640 BFS \uD504\uB85C\uADF8\uB798\uBC0D\\Exam.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{086EC52F-FFBB-4127-9F7B-FDE0BB8D1100}|1260 DFS\uC640 BFS \uD504\uB85C\uADF8\uB798\uBC0D\\1260 DFS\uC640 BFS \uD504\uB85C\uADF8\uB798\uBC0D.vcxproj|C:\\Users\\kbhoo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Study\\0. Do it!\\05 \uD0D0\uC0C9\\02 \uB108\uBE44 \uC6B0\uC120 \uD0D0\uC0C9\\1260 DFS\uC640 BFS \uD504\uB85C\uADF8\uB798\uBC0D\\1260 DFS\uC640 BFS \uD504\uB85C\uADF8\uB798\uBC0D\\Good.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{086EC52F-FFBB-4127-9F7B-FDE0BB8D1100}|1260 DFS\uC640 BFS \uD504\uB85C\uADF8\uB798\uBC0D\\1260 DFS\uC640 BFS \uD504\uB85C\uADF8\uB798\uBC0D.vcxproj|solutionrelative:1260 DFS\uC640 BFS \uD504\uB85C\uADF8\uB798\uBC0D\\Good.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Good.cpp",
+              "DocumentMoniker": "C:\\Users\\kbhoo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Study\\0. Do it!\\05 \uD0D0\uC0C9\\02 \uB108\uBE44 \uC6B0\uC120 \uD0D0\uC0C9\\1260 DFS\uC640 BFS \uD504\uB85C\uADF8\uB798\uBC0D\\1260 DFS\uC640 BFS \uD504\uB85C\uADF8\uB798\uBC0D\\Good.cpp",
+              "RelativeDocumentMoniker": "1260 DFS\uC640 BFS \uD504\uB85C\uADF8\uB798\uBC0D\\Good.cpp",
+              "ToolTip": "C:\\Users\\kbhoo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Study\\0. Do it!\\05 \uD0D0\uC0C9\\02 \uB108\uBE44 \uC6B0\uC120 \uD0D0\uC0C9\\1260 DFS\uC640 BFS \uD504\uB85C\uADF8\uB798\uBC0D\\1260 DFS\uC640 BFS \uD504\uB85C\uADF8\uB798\uBC0D\\Good.cpp",
+              "RelativeToolTip": "1260 DFS\uC640 BFS \uD504\uB85C\uADF8\uB798\uBC0D\\Good.cpp",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-14T13:18:50.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Exam.cpp",
+              "DocumentMoniker": "C:\\Users\\kbhoo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Study\\0. Do it!\\05 \uD0D0\uC0C9\\02 \uB108\uBE44 \uC6B0\uC120 \uD0D0\uC0C9\\1260 DFS\uC640 BFS \uD504\uB85C\uADF8\uB798\uBC0D\\1260 DFS\uC640 BFS \uD504\uB85C\uADF8\uB798\uBC0D\\Exam.cpp",
+              "RelativeDocumentMoniker": "1260 DFS\uC640 BFS \uD504\uB85C\uADF8\uB798\uBC0D\\Exam.cpp",
+              "ToolTip": "C:\\Users\\kbhoo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Study\\0. Do it!\\05 \uD0D0\uC0C9\\02 \uB108\uBE44 \uC6B0\uC120 \uD0D0\uC0C9\\1260 DFS\uC640 BFS \uD504\uB85C\uADF8\uB798\uBC0D\\1260 DFS\uC640 BFS \uD504\uB85C\uADF8\uB798\uBC0D\\Exam.cpp",
+              "RelativeToolTip": "1260 DFS\uC640 BFS \uD504\uB85C\uADF8\uB798\uBC0D\\Exam.cpp",
+              "ViewState": "AgIAABAAAAAAAAAAAAAuwD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-30T13:37:36.466Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kbhoo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Study\\0. Do it!\\05 \uD0D0\uC0C9\\03 \uC774\uC9C4 \uD0D0\uC0C9\\14391 \uC885\uC774 \uC870\uAC01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D39CFFE8-5051-42D9-951B-131B94E45BE9}|14391 \uC885\uC774 \uC870\uAC01\\14391 \uC885\uC774 \uC870\uAC01.vcxproj|C:\\Users\\kbhoo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Study\\0. Do it!\\05 \uD0D0\uC0C9\\03 \uC774\uC9C4 \uD0D0\uC0C9\\14391 \uC885\uC774 \uC870\uAC01\\14391 \uC885\uC774 \uC870\uAC01\\Exam.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D39CFFE8-5051-42D9-951B-131B94E45BE9}|14391 \uC885\uC774 \uC870\uAC01\\14391 \uC885\uC774 \uC870\uAC01.vcxproj|solutionrelative:14391 \uC885\uC774 \uC870\uAC01\\Exam.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Exam.cpp",
+              "DocumentMoniker": "C:\\Users\\kbhoo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Study\\0. Do it!\\05 \uD0D0\uC0C9\\03 \uC774\uC9C4 \uD0D0\uC0C9\\14391 \uC885\uC774 \uC870\uAC01\\14391 \uC885\uC774 \uC870\uAC01\\Exam.cpp",
+              "RelativeDocumentMoniker": "14391 \uC885\uC774 \uC870\uAC01\\Exam.cpp",
+              "ToolTip": "C:\\Users\\kbhoo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Study\\0. Do it!\\05 \uD0D0\uC0C9\\03 \uC774\uC9C4 \uD0D0\uC0C9\\14391 \uC885\uC774 \uC870\uAC01\\14391 \uC885\uC774 \uC870\uAC01\\Exam.cpp",
+              "RelativeToolTip": "14391 \uC885\uC774 \uC870\uAC01\\Exam.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-01T17:56:53.936Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

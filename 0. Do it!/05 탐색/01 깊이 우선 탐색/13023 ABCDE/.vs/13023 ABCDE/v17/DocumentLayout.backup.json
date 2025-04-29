@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kbhoo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Study\\0. Do it!\\05 \uD0D0\uC0C9\\01 \uAE4A\uC774 \uC6B0\uC120 \uD0D0\uC0C9\\13023 ABCDE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4730903C-037D-48E0-9E5F-2C2591887CCD}|13023 ABCDE\\13023 ABCDE.vcxproj|C:\\Users\\kbhoo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Study\\0. Do it!\\05 \uD0D0\uC0C9\\01 \uAE4A\uC774 \uC6B0\uC120 \uD0D0\uC0C9\\13023 ABCDE\\13023 ABCDE\\Solution.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4730903C-037D-48E0-9E5F-2C2591887CCD}|13023 ABCDE\\13023 ABCDE.vcxproj|solutionrelative:13023 ABCDE\\Solution.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4730903C-037D-48E0-9E5F-2C2591887CCD}|13023 ABCDE\\13023 ABCDE.vcxproj|C:\\Users\\kbhoo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Study\\0. Do it!\\05 \uD0D0\uC0C9\\01 \uAE4A\uC774 \uC6B0\uC120 \uD0D0\uC0C9\\13023 ABCDE\\13023 ABCDE\\Exam.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4730903C-037D-48E0-9E5F-2C2591887CCD}|13023 ABCDE\\13023 ABCDE.vcxproj|solutionrelative:13023 ABCDE\\Exam.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Solution.cpp",
+              "DocumentMoniker": "C:\\Users\\kbhoo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Study\\0. Do it!\\05 \uD0D0\uC0C9\\01 \uAE4A\uC774 \uC6B0\uC120 \uD0D0\uC0C9\\13023 ABCDE\\13023 ABCDE\\Solution.cpp",
+              "RelativeDocumentMoniker": "13023 ABCDE\\Solution.cpp",
+              "ToolTip": "C:\\Users\\kbhoo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Study\\0. Do it!\\05 \uD0D0\uC0C9\\01 \uAE4A\uC774 \uC6B0\uC120 \uD0D0\uC0C9\\13023 ABCDE\\13023 ABCDE\\Solution.cpp",
+              "RelativeToolTip": "13023 ABCDE\\Solution.cpp",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-30T09:55:22.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Exam.cpp",
+              "DocumentMoniker": "C:\\Users\\kbhoo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Study\\0. Do it!\\05 \uD0D0\uC0C9\\01 \uAE4A\uC774 \uC6B0\uC120 \uD0D0\uC0C9\\13023 ABCDE\\13023 ABCDE\\Exam.cpp",
+              "RelativeDocumentMoniker": "13023 ABCDE\\Exam.cpp",
+              "ToolTip": "C:\\Users\\kbhoo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Study\\0. Do it!\\05 \uD0D0\uC0C9\\01 \uAE4A\uC774 \uC6B0\uC120 \uD0D0\uC0C9\\13023 ABCDE\\13023 ABCDE\\Exam.cpp",
+              "RelativeToolTip": "13023 ABCDE\\Exam.cpp",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAuwCMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-30T08:53:36.987Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

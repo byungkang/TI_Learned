@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kbhoo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Study\\0. Do it!\\03 \uC790\uB8CC\uAD6C\uC870\\04 \uC2AC\uB77C\uC774\uB529 \uC708\uB3C4\uC6B0\\12891 DNA \uBE44\uBC00\uBC94\uD638\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6D1727E4-CA03-450C-BDF1-70E81EB3448A}|12891 DNA \uBE44\uBC00\uBC94\uD638\\12891 DNA \uBE44\uBC00\uBC94\uD638.vcxproj|C:\\Users\\kbhoo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Study\\0. Do it!\\03 \uC790\uB8CC\uAD6C\uC870\\04 \uC2AC\uB77C\uC774\uB529 \uC708\uB3C4\uC6B0\\12891 DNA \uBE44\uBC00\uBC94\uD638\\12891 DNA \uBE44\uBC00\uBC94\uD638\\Exam.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6D1727E4-CA03-450C-BDF1-70E81EB3448A}|12891 DNA \uBE44\uBC00\uBC94\uD638\\12891 DNA \uBE44\uBC00\uBC94\uD638.vcxproj|solutionrelative:12891 DNA \uBE44\uBC00\uBC94\uD638\\Exam.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Exam.cpp",
+              "DocumentMoniker": "C:\\Users\\kbhoo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Study\\0. Do it!\\03 \uC790\uB8CC\uAD6C\uC870\\04 \uC2AC\uB77C\uC774\uB529 \uC708\uB3C4\uC6B0\\12891 DNA \uBE44\uBC00\uBC94\uD638\\12891 DNA \uBE44\uBC00\uBC94\uD638\\Exam.cpp",
+              "RelativeDocumentMoniker": "12891 DNA \uBE44\uBC00\uBC94\uD638\\Exam.cpp",
+              "ToolTip": "C:\\Users\\kbhoo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Study\\0. Do it!\\03 \uC790\uB8CC\uAD6C\uC870\\04 \uC2AC\uB77C\uC774\uB529 \uC708\uB3C4\uC6B0\\12891 DNA \uBE44\uBC00\uBC94\uD638\\12891 DNA \uBE44\uBC00\uBC94\uD638\\Exam.cpp",
+              "RelativeToolTip": "12891 DNA \uBE44\uBC00\uBC94\uD638\\Exam.cpp",
+              "ViewState": "AgIAADIAAAAAAAAAAAAuwEQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-18T02:24:06.898Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kbhoo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Study\\0. Do it!\\05 \uD0D0\uC0C9\\02 \uB108\uBE44 \uC6B0\uC120 \uD0D0\uC0C9\\1167 \uD2B8\uB9AC\uC758 \uC9C0\uB984 \uAD6C\uD558\uAE30\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F2B18EE9-2692-41D3-8B18-DA047F0F01F4}|1167 \uD2B8\uB9AC\uC758 \uC9C0\uB984 \uAD6C\uD558\uAE30\\1167 \uD2B8\uB9AC\uC758 \uC9C0\uB984 \uAD6C\uD558\uAE30.vcxproj|C:\\Users\\kbhoo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Study\\0. Do it!\\05 \uD0D0\uC0C9\\02 \uB108\uBE44 \uC6B0\uC120 \uD0D0\uC0C9\\1167 \uD2B8\uB9AC\uC758 \uC9C0\uB984 \uAD6C\uD558\uAE30\\1167 \uD2B8\uB9AC\uC758 \uC9C0\uB984 \uAD6C\uD558\uAE30\\Exam.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F2B18EE9-2692-41D3-8B18-DA047F0F01F4}|1167 \uD2B8\uB9AC\uC758 \uC9C0\uB984 \uAD6C\uD558\uAE30\\1167 \uD2B8\uB9AC\uC758 \uC9C0\uB984 \uAD6C\uD558\uAE30.vcxproj|solutionrelative:1167 \uD2B8\uB9AC\uC758 \uC9C0\uB984 \uAD6C\uD558\uAE30\\Exam.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2B18EE9-2692-41D3-8B18-DA047F0F01F4}|1167 \uD2B8\uB9AC\uC758 \uC9C0\uB984 \uAD6C\uD558\uAE30\\1167 \uD2B8\uB9AC\uC758 \uC9C0\uB984 \uAD6C\uD558\uAE30.vcxproj|C:\\Users\\kbhoo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Study\\0. Do it!\\05 \uD0D0\uC0C9\\02 \uB108\uBE44 \uC6B0\uC120 \uD0D0\uC0C9\\1167 \uD2B8\uB9AC\uC758 \uC9C0\uB984 \uAD6C\uD558\uAE30\\1167 \uD2B8\uB9AC\uC758 \uC9C0\uB984 \uAD6C\uD558\uAE30\\solution.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F2B18EE9-2692-41D3-8B18-DA047F0F01F4}|1167 \uD2B8\uB9AC\uC758 \uC9C0\uB984 \uAD6C\uD558\uAE30\\1167 \uD2B8\uB9AC\uC758 \uC9C0\uB984 \uAD6C\uD558\uAE30.vcxproj|solutionrelative:1167 \uD2B8\uB9AC\uC758 \uC9C0\uB984 \uAD6C\uD558\uAE30\\solution.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Exam.cpp",
+              "DocumentMoniker": "C:\\Users\\kbhoo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Study\\0. Do it!\\05 \uD0D0\uC0C9\\02 \uB108\uBE44 \uC6B0\uC120 \uD0D0\uC0C9\\1167 \uD2B8\uB9AC\uC758 \uC9C0\uB984 \uAD6C\uD558\uAE30\\1167 \uD2B8\uB9AC\uC758 \uC9C0\uB984 \uAD6C\uD558\uAE30\\Exam.cpp",
+              "RelativeDocumentMoniker": "1167 \uD2B8\uB9AC\uC758 \uC9C0\uB984 \uAD6C\uD558\uAE30\\Exam.cpp",
+              "ToolTip": "C:\\Users\\kbhoo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Study\\0. Do it!\\05 \uD0D0\uC0C9\\02 \uB108\uBE44 \uC6B0\uC120 \uD0D0\uC0C9\\1167 \uD2B8\uB9AC\uC758 \uC9C0\uB984 \uAD6C\uD558\uAE30\\1167 \uD2B8\uB9AC\uC758 \uC9C0\uB984 \uAD6C\uD558\uAE30\\Exam.cpp",
+              "RelativeToolTip": "1167 \uD2B8\uB9AC\uC758 \uC9C0\uB984 \uAD6C\uD558\uAE30\\Exam.cpp",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAADsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-31T14:52:39.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "solution.cpp",
+              "DocumentMoniker": "C:\\Users\\kbhoo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Study\\0. Do it!\\05 \uD0D0\uC0C9\\02 \uB108\uBE44 \uC6B0\uC120 \uD0D0\uC0C9\\1167 \uD2B8\uB9AC\uC758 \uC9C0\uB984 \uAD6C\uD558\uAE30\\1167 \uD2B8\uB9AC\uC758 \uC9C0\uB984 \uAD6C\uD558\uAE30\\solution.cpp",
+              "RelativeDocumentMoniker": "1167 \uD2B8\uB9AC\uC758 \uC9C0\uB984 \uAD6C\uD558\uAE30\\solution.cpp",
+              "ToolTip": "C:\\Users\\kbhoo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Study\\0. Do it!\\05 \uD0D0\uC0C9\\02 \uB108\uBE44 \uC6B0\uC120 \uD0D0\uC0C9\\1167 \uD2B8\uB9AC\uC758 \uC9C0\uB984 \uAD6C\uD558\uAE30\\1167 \uD2B8\uB9AC\uC758 \uC9C0\uB984 \uAD6C\uD558\uAE30\\solution.cpp",
+              "RelativeToolTip": "1167 \uD2B8\uB9AC\uC758 \uC9C0\uB984 \uAD6C\uD558\uAE30\\solution.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-31T14:05:02.894Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

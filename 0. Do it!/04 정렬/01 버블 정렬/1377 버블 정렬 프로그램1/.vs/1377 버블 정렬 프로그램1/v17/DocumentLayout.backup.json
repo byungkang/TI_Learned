@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kbhoo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Study\\0. Do it!\\04 \uC815\uB82C\\01 \uBC84\uBE14 \uC815\uB82C\\1377 \uBC84\uBE14 \uC815\uB82C \uD504\uB85C\uADF8\uB7A81\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F58B5EA5-45D6-41E5-ABF7-D264078C9D7F}|1377 \uBC84\uBE14 \uC815\uB82C \uD504\uB85C\uADF8\uB7A81\\1377 \uBC84\uBE14 \uC815\uB82C \uD504\uB85C\uADF8\uB7A81.vcxproj|C:\\Users\\kbhoo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Study\\0. Do it!\\04 \uC815\uB82C\\01 \uBC84\uBE14 \uC815\uB82C\\1377 \uBC84\uBE14 \uC815\uB82C \uD504\uB85C\uADF8\uB7A81\\1377 \uBC84\uBE14 \uC815\uB82C \uD504\uB85C\uADF8\uB7A81\\Exam.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F58B5EA5-45D6-41E5-ABF7-D264078C9D7F}|1377 \uBC84\uBE14 \uC815\uB82C \uD504\uB85C\uADF8\uB7A81\\1377 \uBC84\uBE14 \uC815\uB82C \uD504\uB85C\uADF8\uB7A81.vcxproj|solutionrelative:1377 \uBC84\uBE14 \uC815\uB82C \uD504\uB85C\uADF8\uB7A81\\Exam.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Exam.cpp",
+              "DocumentMoniker": "C:\\Users\\kbhoo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Study\\0. Do it!\\04 \uC815\uB82C\\01 \uBC84\uBE14 \uC815\uB82C\\1377 \uBC84\uBE14 \uC815\uB82C \uD504\uB85C\uADF8\uB7A81\\1377 \uBC84\uBE14 \uC815\uB82C \uD504\uB85C\uADF8\uB7A81\\Exam.cpp",
+              "RelativeDocumentMoniker": "1377 \uBC84\uBE14 \uC815\uB82C \uD504\uB85C\uADF8\uB7A81\\Exam.cpp",
+              "ToolTip": "C:\\Users\\kbhoo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Study\\0. Do it!\\04 \uC815\uB82C\\01 \uBC84\uBE14 \uC815\uB82C\\1377 \uBC84\uBE14 \uC815\uB82C \uD504\uB85C\uADF8\uB7A81\\1377 \uBC84\uBE14 \uC815\uB82C \uD504\uB85C\uADF8\uB7A81\\Exam.cpp",
+              "RelativeToolTip": "1377 \uBC84\uBE14 \uC815\uB82C \uD504\uB85C\uADF8\uB7A81\\Exam.cpp",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-23T16:13:48.697Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

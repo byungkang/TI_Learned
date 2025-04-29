@@ -1,0 +1,173 @@
+﻿  Exam.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\queue(222,104): error C2794: 'value_type': 직접 또는 간접 기본 클래스 'std::greater<int>'의 멤버가 아닙니다.
+  (소스 파일 'Exam.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\kbhoo\OneDrive\바탕 화면\Study\0. Do it!\06 그리디\1715 카드 정렬하기\1715 카드 정렬하기\Exam.cpp(18,2): error C2976: 'std::priority_queue': 템플릿 인수가 너무 적습니다.
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\queue(223,7):
+      'std::priority_queue' 선언을 참조하십시오.
+  
+C:\Users\kbhoo\OneDrive\바탕 화면\Study\0. Do it!\06 그리디\1715 카드 정렬하기\1715 카드 정렬하기\Exam.cpp(18,36): error C2133: 'alpha': 알 수 없는 크기입니다.
+C:\Users\kbhoo\OneDrive\바탕 화면\Study\0. Do it!\06 그리디\1715 카드 정렬하기\1715 카드 정렬하기\Exam.cpp(18,36): error C2512: 'std::priority_queue': 사용할 수 있는 적절한 기본 생성자가 없습니다.
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\queue(223,7):
+      'std::priority_queue' 선언을 참조하십시오.
+  
+C:\Users\kbhoo\OneDrive\바탕 화면\Study\0. Do it!\06 그리디\1715 카드 정렬하기\1715 카드 정렬하기\Exam.cpp(24,9): error C2663: 'std::priority_queue<_Ty,_Container,_Pr>::push': 오버로드된 함수에 'this' 포인터에 대한 유효한 변환이 없습니다.
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\queue(374,10):
+      'void std::priority_queue<_Ty,_Container,_Pr>::push(_Container::value_type &&)'일 수 있습니다.
+          C:\Users\kbhoo\OneDrive\바탕 화면\Study\0. Do it!\06 그리디\1715 카드 정렬하기\1715 카드 정렬하기\Exam.cpp(24,9):
+          'void std::priority_queue<_Ty,_Container,_Pr>::push(_Container::value_type &&)': 'this' 포인터를 'std::priority_queue'에서 'std::priority_queue<_Ty,_Container,_Pr> &'(으)로 변환할 수 없습니다.
+              C:\Users\kbhoo\OneDrive\바탕 화면\Study\0. Do it!\06 그리디\1715 카드 정렬하기\1715 카드 정렬하기\Exam.cpp(24,3):
+              원인: 'std::priority_queue'에서 'std::priority_queue<_Ty,_Container,_Pr>'(으)로 변환할 수 없습니다.
+              C:\Users\kbhoo\OneDrive\바탕 화면\Study\0. Do it!\06 그리디\1715 카드 정렬하기\1715 카드 정렬하기\Exam.cpp(24,3):
+              변환하려면 둘째 사용자 정의 변환 연산자 또는 생성자가 있어야 합니다.
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\queue(369,10):
+      또는       'void std::priority_queue<_Ty,_Container,_Pr>::push(const _Container::value_type &)'
+          C:\Users\kbhoo\OneDrive\바탕 화면\Study\0. Do it!\06 그리디\1715 카드 정렬하기\1715 카드 정렬하기\Exam.cpp(24,9):
+          'void std::priority_queue<_Ty,_Container,_Pr>::push(const _Container::value_type &)': 'this' 포인터를 'std::priority_queue'에서 'std::priority_queue<_Ty,_Container,_Pr> &'(으)로 변환할 수 없습니다.
+              C:\Users\kbhoo\OneDrive\바탕 화면\Study\0. Do it!\06 그리디\1715 카드 정렬하기\1715 카드 정렬하기\Exam.cpp(24,3):
+              원인: 'std::priority_queue'에서 'std::priority_queue<_Ty,_Container,_Pr>'(으)로 변환할 수 없습니다.
+              C:\Users\kbhoo\OneDrive\바탕 화면\Study\0. Do it!\06 그리디\1715 카드 정렬하기\1715 카드 정렬하기\Exam.cpp(24,3):
+              변환하려면 둘째 사용자 정의 변환 연산자 또는 생성자가 있어야 합니다.
+      C:\Users\kbhoo\OneDrive\바탕 화면\Study\0. Do it!\06 그리디\1715 카드 정렬하기\1715 카드 정렬하기\Exam.cpp(24,9):
+      인수 목록 '(int)'을(를) 일치시키는 동안
+  
+C:\Users\kbhoo\OneDrive\바탕 화면\Study\0. Do it!\06 그리디\1715 카드 정렬하기\1715 카드 정렬하기\Exam.cpp(27,27): error C2662: '_Container::const_reference std::priority_queue<_Ty,_Container,_Pr>::top(void) noexcept(<expr>) const': 'this' 포인터를 'std::priority_queue'에서 'const std::priority_queue<_Ty,_Container,_Pr> &'(으)로 변환할 수 없습니다.
+      C:\Users\kbhoo\OneDrive\바탕 화면\Study\0. Do it!\06 그리디\1715 카드 정렬하기\1715 카드 정렬하기\Exam.cpp(27,21):
+      원인: 'std::priority_queue'에서 'const std::priority_queue<_Ty,_Container,_Pr>'(으)로 변환할 수 없습니다.
+      C:\Users\kbhoo\OneDrive\바탕 화면\Study\0. Do it!\06 그리디\1715 카드 정렬하기\1715 카드 정렬하기\Exam.cpp(27,21):
+      변환하려면 둘째 사용자 정의 변환 연산자 또는 생성자가 있어야 합니다.
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\queue(365,32):
+      'std::priority_queue<_Ty,_Container,_Pr>::top' 선언을 참조하십시오.
+      C:\Users\kbhoo\OneDrive\바탕 화면\Study\0. Do it!\06 그리디\1715 카드 정렬하기\1715 카드 정렬하기\Exam.cpp(27,27):
+      인수 목록 '()'을(를) 일치시키는 동안
+  
+C:\Users\kbhoo\OneDrive\바탕 화면\Study\0. Do it!\06 그리디\1715 카드 정렬하기\1715 카드 정렬하기\Exam.cpp(28,8): error C2662: 'void std::priority_queue<_Ty,_Container,_Pr>::pop(void)': 'this' 포인터를 'std::priority_queue'에서 'std::priority_queue<_Ty,_Container,_Pr> &'(으)로 변환할 수 없습니다.
+      C:\Users\kbhoo\OneDrive\바탕 화면\Study\0. Do it!\06 그리디\1715 카드 정렬하기\1715 카드 정렬하기\Exam.cpp(28,2):
+      원인: 'std::priority_queue'에서 'std::priority_queue<_Ty,_Container,_Pr>'(으)로 변환할 수 없습니다.
+      C:\Users\kbhoo\OneDrive\바탕 화면\Study\0. Do it!\06 그리디\1715 카드 정렬하기\1715 카드 정렬하기\Exam.cpp(28,2):
+      변환하려면 둘째 사용자 정의 변환 연산자 또는 생성자가 있어야 합니다.
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\queue(410,10):
+      'std::priority_queue<_Ty,_Container,_Pr>::pop' 선언을 참조하십시오.
+      C:\Users\kbhoo\OneDrive\바탕 화면\Study\0. Do it!\06 그리디\1715 카드 정렬하기\1715 카드 정렬하기\Exam.cpp(28,8):
+      인수 목록 '()'을(를) 일치시키는 동안
+  
+C:\Users\kbhoo\OneDrive\바탕 화면\Study\0. Do it!\06 그리디\1715 카드 정렬하기\1715 카드 정렬하기\Exam.cpp(29,24): error C2662: '_Container::const_reference std::priority_queue<_Ty,_Container,_Pr>::top(void) noexcept(<expr>) const': 'this' 포인터를 'std::priority_queue'에서 'const std::priority_queue<_Ty,_Container,_Pr> &'(으)로 변환할 수 없습니다.
+      C:\Users\kbhoo\OneDrive\바탕 화면\Study\0. Do it!\06 그리디\1715 카드 정렬하기\1715 카드 정렬하기\Exam.cpp(29,18):
+      원인: 'std::priority_queue'에서 'const std::priority_queue<_Ty,_Container,_Pr>'(으)로 변환할 수 없습니다.
+      C:\Users\kbhoo\OneDrive\바탕 화면\Study\0. Do it!\06 그리디\1715 카드 정렬하기\1715 카드 정렬하기\Exam.cpp(29,18):
+      변환하려면 둘째 사용자 정의 변환 연산자 또는 생성자가 있어야 합니다.
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\queue(365,32):
+      'std::priority_queue<_Ty,_Container,_Pr>::top' 선언을 참조하십시오.
+      C:\Users\kbhoo\OneDrive\바탕 화면\Study\0. Do it!\06 그리디\1715 카드 정렬하기\1715 카드 정렬하기\Exam.cpp(29,24):
+      인수 목록 '()'을(를) 일치시키는 동안
+  
+C:\Users\kbhoo\OneDrive\바탕 화면\Study\0. Do it!\06 그리디\1715 카드 정렬하기\1715 카드 정렬하기\Exam.cpp(30,8): error C2662: 'void std::priority_queue<_Ty,_Container,_Pr>::pop(void)': 'this' 포인터를 'std::priority_queue'에서 'std::priority_queue<_Ty,_Container,_Pr> &'(으)로 변환할 수 없습니다.
+      C:\Users\kbhoo\OneDrive\바탕 화면\Study\0. Do it!\06 그리디\1715 카드 정렬하기\1715 카드 정렬하기\Exam.cpp(30,2):
+      원인: 'std::priority_queue'에서 'std::priority_queue<_Ty,_Container,_Pr>'(으)로 변환할 수 없습니다.
+      C:\Users\kbhoo\OneDrive\바탕 화면\Study\0. Do it!\06 그리디\1715 카드 정렬하기\1715 카드 정렬하기\Exam.cpp(30,2):
+      변환하려면 둘째 사용자 정의 변환 연산자 또는 생성자가 있어야 합니다.
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\queue(410,10):
+      'std::priority_queue<_Ty,_Container,_Pr>::pop' 선언을 참조하십시오.
+      C:\Users\kbhoo\OneDrive\바탕 화면\Study\0. Do it!\06 그리디\1715 카드 정렬하기\1715 카드 정렬하기\Exam.cpp(30,8):
+      인수 목록 '()'을(를) 일치시키는 동안
+  
+C:\Users\kbhoo\OneDrive\바탕 화면\Study\0. Do it!\06 그리디\1715 카드 정렬하기\1715 카드 정렬하기\Exam.cpp(32,8): error C2663: 'std::priority_queue<_Ty,_Container,_Pr>::push': 오버로드된 함수에 'this' 포인터에 대한 유효한 변환이 없습니다.
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\queue(374,10):
+      'void std::priority_queue<_Ty,_Container,_Pr>::push(_Container::value_type &&)'일 수 있습니다.
+          C:\Users\kbhoo\OneDrive\바탕 화면\Study\0. Do it!\06 그리디\1715 카드 정렬하기\1715 카드 정렬하기\Exam.cpp(32,8):
+          'void std::priority_queue<_Ty,_Container,_Pr>::push(_Container::value_type &&)': 'this' 포인터를 'std::priority_queue'에서 'std::priority_queue<_Ty,_Container,_Pr> &'(으)로 변환할 수 없습니다.
+              C:\Users\kbhoo\OneDrive\바탕 화면\Study\0. Do it!\06 그리디\1715 카드 정렬하기\1715 카드 정렬하기\Exam.cpp(32,2):
+              원인: 'std::priority_queue'에서 'std::priority_queue<_Ty,_Container,_Pr>'(으)로 변환할 수 없습니다.
+              C:\Users\kbhoo\OneDrive\바탕 화면\Study\0. Do it!\06 그리디\1715 카드 정렬하기\1715 카드 정렬하기\Exam.cpp(32,2):
+              변환하려면 둘째 사용자 정의 변환 연산자 또는 생성자가 있어야 합니다.
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\queue(369,10):
+      또는       'void std::priority_queue<_Ty,_Container,_Pr>::push(const _Container::value_type &)'
+          C:\Users\kbhoo\OneDrive\바탕 화면\Study\0. Do it!\06 그리디\1715 카드 정렬하기\1715 카드 정렬하기\Exam.cpp(32,8):
+          'void std::priority_queue<_Ty,_Container,_Pr>::push(const _Container::value_type &)': 'this' 포인터를 'std::priority_queue'에서 'std::priority_queue<_Ty,_Container,_Pr> &'(으)로 변환할 수 없습니다.
+              C:\Users\kbhoo\OneDrive\바탕 화면\Study\0. Do it!\06 그리디\1715 카드 정렬하기\1715 카드 정렬하기\Exam.cpp(32,2):
+              원인: 'std::priority_queue'에서 'std::priority_queue<_Ty,_Container,_Pr>'(으)로 변환할 수 없습니다.
+              C:\Users\kbhoo\OneDrive\바탕 화면\Study\0. Do it!\06 그리디\1715 카드 정렬하기\1715 카드 정렬하기\Exam.cpp(32,2):
+              변환하려면 둘째 사용자 정의 변환 연산자 또는 생성자가 있어야 합니다.
+      C:\Users\kbhoo\OneDrive\바탕 화면\Study\0. Do it!\06 그리디\1715 카드 정렬하기\1715 카드 정렬하기\Exam.cpp(32,8):
+      인수 목록 '(int)'을(를) 일치시키는 동안
+  
+C:\Users\kbhoo\OneDrive\바탕 화면\Study\0. Do it!\06 그리디\1715 카드 정렬하기\1715 카드 정렬하기\Exam.cpp(34,16): error C2662: 'bool std::priority_queue<_Ty,_Container,_Pr>::empty(void) noexcept(<expr>) const': 'this' 포인터를 'std::priority_queue'에서 'const std::priority_queue<_Ty,_Container,_Pr> &'(으)로 변환할 수 없습니다.
+      C:\Users\kbhoo\OneDrive\바탕 화면\Study\0. Do it!\06 그리디\1715 카드 정렬하기\1715 카드 정렬하기\Exam.cpp(34,10):
+      원인: 'std::priority_queue'에서 'const std::priority_queue<_Ty,_Container,_Pr>'(으)로 변환할 수 없습니다.
+      C:\Users\kbhoo\OneDrive\바탕 화면\Study\0. Do it!\06 그리디\1715 카드 정렬하기\1715 카드 정렬하기\Exam.cpp(34,10):
+      변환하려면 둘째 사용자 정의 변환 연산자 또는 생성자가 있어야 합니다.
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\queue(357,43):
+      'std::priority_queue<_Ty,_Container,_Pr>::empty' 선언을 참조하십시오.
+      C:\Users\kbhoo\OneDrive\바탕 화면\Study\0. Do it!\06 그리디\1715 카드 정렬하기\1715 카드 정렬하기\Exam.cpp(34,16):
+      인수 목록 '()'을(를) 일치시키는 동안
+  
+C:\Users\kbhoo\OneDrive\바탕 화면\Study\0. Do it!\06 그리디\1715 카드 정렬하기\1715 카드 정렬하기\Exam.cpp(37,19): error C2662: '_Container::const_reference std::priority_queue<_Ty,_Container,_Pr>::top(void) noexcept(<expr>) const': 'this' 포인터를 'std::priority_queue'에서 'const std::priority_queue<_Ty,_Container,_Pr> &'(으)로 변환할 수 없습니다.
+      C:\Users\kbhoo\OneDrive\바탕 화면\Study\0. Do it!\06 그리디\1715 카드 정렬하기\1715 카드 정렬하기\Exam.cpp(37,13):
+      원인: 'std::priority_queue'에서 'const std::priority_queue<_Ty,_Container,_Pr>'(으)로 변환할 수 없습니다.
+      C:\Users\kbhoo\OneDrive\바탕 화면\Study\0. Do it!\06 그리디\1715 카드 정렬하기\1715 카드 정렬하기\Exam.cpp(37,13):
+      변환하려면 둘째 사용자 정의 변환 연산자 또는 생성자가 있어야 합니다.
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\queue(365,32):
+      'std::priority_queue<_Ty,_Container,_Pr>::top' 선언을 참조하십시오.
+      C:\Users\kbhoo\OneDrive\바탕 화면\Study\0. Do it!\06 그리디\1715 카드 정렬하기\1715 카드 정렬하기\Exam.cpp(37,19):
+      인수 목록 '()'을(를) 일치시키는 동안
+  
+C:\Users\kbhoo\OneDrive\바탕 화면\Study\0. Do it!\06 그리디\1715 카드 정렬하기\1715 카드 정렬하기\Exam.cpp(38,9): error C2662: 'void std::priority_queue<_Ty,_Container,_Pr>::pop(void)': 'this' 포인터를 'std::priority_queue'에서 'std::priority_queue<_Ty,_Container,_Pr> &'(으)로 변환할 수 없습니다.
+      C:\Users\kbhoo\OneDrive\바탕 화면\Study\0. Do it!\06 그리디\1715 카드 정렬하기\1715 카드 정렬하기\Exam.cpp(38,3):
+      원인: 'std::priority_queue'에서 'std::priority_queue<_Ty,_Container,_Pr>'(으)로 변환할 수 없습니다.
+      C:\Users\kbhoo\OneDrive\바탕 화면\Study\0. Do it!\06 그리디\1715 카드 정렬하기\1715 카드 정렬하기\Exam.cpp(38,3):
+      변환하려면 둘째 사용자 정의 변환 연산자 또는 생성자가 있어야 합니다.
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\queue(410,10):
+      'std::priority_queue<_Ty,_Container,_Pr>::pop' 선언을 참조하십시오.
+      C:\Users\kbhoo\OneDrive\바탕 화면\Study\0. Do it!\06 그리디\1715 카드 정렬하기\1715 카드 정렬하기\Exam.cpp(38,9):
+      인수 목록 '()'을(를) 일치시키는 동안
+  
+C:\Users\kbhoo\OneDrive\바탕 화면\Study\0. Do it!\06 그리디\1715 카드 정렬하기\1715 카드 정렬하기\Exam.cpp(39,17): error C2662: '_Container::const_reference std::priority_queue<_Ty,_Container,_Pr>::top(void) noexcept(<expr>) const': 'this' 포인터를 'std::priority_queue'에서 'const std::priority_queue<_Ty,_Container,_Pr> &'(으)로 변환할 수 없습니다.
+      C:\Users\kbhoo\OneDrive\바탕 화면\Study\0. Do it!\06 그리디\1715 카드 정렬하기\1715 카드 정렬하기\Exam.cpp(39,11):
+      원인: 'std::priority_queue'에서 'const std::priority_queue<_Ty,_Container,_Pr>'(으)로 변환할 수 없습니다.
+      C:\Users\kbhoo\OneDrive\바탕 화면\Study\0. Do it!\06 그리디\1715 카드 정렬하기\1715 카드 정렬하기\Exam.cpp(39,11):
+      변환하려면 둘째 사용자 정의 변환 연산자 또는 생성자가 있어야 합니다.
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\queue(365,32):
+      'std::priority_queue<_Ty,_Container,_Pr>::top' 선언을 참조하십시오.
+      C:\Users\kbhoo\OneDrive\바탕 화면\Study\0. Do it!\06 그리디\1715 카드 정렬하기\1715 카드 정렬하기\Exam.cpp(39,17):
+      인수 목록 '()'을(를) 일치시키는 동안
+  
+C:\Users\kbhoo\OneDrive\바탕 화면\Study\0. Do it!\06 그리디\1715 카드 정렬하기\1715 카드 정렬하기\Exam.cpp(40,9): error C2662: 'void std::priority_queue<_Ty,_Container,_Pr>::pop(void)': 'this' 포인터를 'std::priority_queue'에서 'std::priority_queue<_Ty,_Container,_Pr> &'(으)로 변환할 수 없습니다.
+      C:\Users\kbhoo\OneDrive\바탕 화면\Study\0. Do it!\06 그리디\1715 카드 정렬하기\1715 카드 정렬하기\Exam.cpp(40,3):
+      원인: 'std::priority_queue'에서 'std::priority_queue<_Ty,_Container,_Pr>'(으)로 변환할 수 없습니다.
+      C:\Users\kbhoo\OneDrive\바탕 화면\Study\0. Do it!\06 그리디\1715 카드 정렬하기\1715 카드 정렬하기\Exam.cpp(40,3):
+      변환하려면 둘째 사용자 정의 변환 연산자 또는 생성자가 있어야 합니다.
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\queue(410,10):
+      'std::priority_queue<_Ty,_Container,_Pr>::pop' 선언을 참조하십시오.
+      C:\Users\kbhoo\OneDrive\바탕 화면\Study\0. Do it!\06 그리디\1715 카드 정렬하기\1715 카드 정렬하기\Exam.cpp(40,9):
+      인수 목록 '()'을(를) 일치시키는 동안
+  
+C:\Users\kbhoo\OneDrive\바탕 화면\Study\0. Do it!\06 그리디\1715 카드 정렬하기\1715 카드 정렬하기\Exam.cpp(44,13): error C2662: 'bool std::priority_queue<_Ty,_Container,_Pr>::empty(void) noexcept(<expr>) const': 'this' 포인터를 'std::priority_queue'에서 'const std::priority_queue<_Ty,_Container,_Pr> &'(으)로 변환할 수 없습니다.
+      C:\Users\kbhoo\OneDrive\바탕 화면\Study\0. Do it!\06 그리디\1715 카드 정렬하기\1715 카드 정렬하기\Exam.cpp(44,7):
+      원인: 'std::priority_queue'에서 'const std::priority_queue<_Ty,_Container,_Pr>'(으)로 변환할 수 없습니다.
+      C:\Users\kbhoo\OneDrive\바탕 화면\Study\0. Do it!\06 그리디\1715 카드 정렬하기\1715 카드 정렬하기\Exam.cpp(44,7):
+      변환하려면 둘째 사용자 정의 변환 연산자 또는 생성자가 있어야 합니다.
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\queue(357,43):
+      'std::priority_queue<_Ty,_Container,_Pr>::empty' 선언을 참조하십시오.
+      C:\Users\kbhoo\OneDrive\바탕 화면\Study\0. Do it!\06 그리디\1715 카드 정렬하기\1715 카드 정렬하기\Exam.cpp(44,13):
+      인수 목록 '()'을(를) 일치시키는 동안
+  
+C:\Users\kbhoo\OneDrive\바탕 화면\Study\0. Do it!\06 그리디\1715 카드 정렬하기\1715 카드 정렬하기\Exam.cpp(51,10): error C2663: 'std::priority_queue<_Ty,_Container,_Pr>::push': 오버로드된 함수에 'this' 포인터에 대한 유효한 변환이 없습니다.
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\queue(374,10):
+      'void std::priority_queue<_Ty,_Container,_Pr>::push(_Container::value_type &&)'일 수 있습니다.
+          C:\Users\kbhoo\OneDrive\바탕 화면\Study\0. Do it!\06 그리디\1715 카드 정렬하기\1715 카드 정렬하기\Exam.cpp(51,10):
+          'void std::priority_queue<_Ty,_Container,_Pr>::push(_Container::value_type &&)': 'this' 포인터를 'std::priority_queue'에서 'std::priority_queue<_Ty,_Container,_Pr> &'(으)로 변환할 수 없습니다.
+              C:\Users\kbhoo\OneDrive\바탕 화면\Study\0. Do it!\06 그리디\1715 카드 정렬하기\1715 카드 정렬하기\Exam.cpp(51,4):
+              원인: 'std::priority_queue'에서 'std::priority_queue<_Ty,_Container,_Pr>'(으)로 변환할 수 없습니다.
+              C:\Users\kbhoo\OneDrive\바탕 화면\Study\0. Do it!\06 그리디\1715 카드 정렬하기\1715 카드 정렬하기\Exam.cpp(51,4):
+              변환하려면 둘째 사용자 정의 변환 연산자 또는 생성자가 있어야 합니다.
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\queue(369,10):
+      또는       'void std::priority_queue<_Ty,_Container,_Pr>::push(const _Container::value_type &)'
+          C:\Users\kbhoo\OneDrive\바탕 화면\Study\0. Do it!\06 그리디\1715 카드 정렬하기\1715 카드 정렬하기\Exam.cpp(51,10):
+          'void std::priority_queue<_Ty,_Container,_Pr>::push(const _Container::value_type &)': 'this' 포인터를 'std::priority_queue'에서 'std::priority_queue<_Ty,_Container,_Pr> &'(으)로 변환할 수 없습니다.
+              C:\Users\kbhoo\OneDrive\바탕 화면\Study\0. Do it!\06 그리디\1715 카드 정렬하기\1715 카드 정렬하기\Exam.cpp(51,4):
+              원인: 'std::priority_queue'에서 'std::priority_queue<_Ty,_Container,_Pr>'(으)로 변환할 수 없습니다.
+              C:\Users\kbhoo\OneDrive\바탕 화면\Study\0. Do it!\06 그리디\1715 카드 정렬하기\1715 카드 정렬하기\Exam.cpp(51,4):
+              변환하려면 둘째 사용자 정의 변환 연산자 또는 생성자가 있어야 합니다.
+      C:\Users\kbhoo\OneDrive\바탕 화면\Study\0. Do it!\06 그리디\1715 카드 정렬하기\1715 카드 정렬하기\Exam.cpp(51,10):
+      인수 목록 '(int)'을(를) 일치시키는 동안
+  

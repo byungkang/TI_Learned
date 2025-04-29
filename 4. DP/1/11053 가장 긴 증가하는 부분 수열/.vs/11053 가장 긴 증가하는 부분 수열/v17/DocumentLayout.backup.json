@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kbhoo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Study\\1\\11053 \uAC00\uC7A5 \uAE34 \uC99D\uAC00\uD558\uB294 \uBD80\uBD84 \uC218\uC5F4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FFDD5EE3-F324-43C1-982D-478E87DE5109}|11053 \uAC00\uC7A5 \uAE34 \uC99D\uAC00\uD558\uB294 \uBD80\uBD84 \uC218\uC5F4\\11053 \uAC00\uC7A5 \uAE34 \uC99D\uAC00\uD558\uB294 \uBD80\uBD84 \uC218\uC5F4.vcxproj|C:\\Users\\kbhoo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Study\\1\\11053 \uAC00\uC7A5 \uAE34 \uC99D\uAC00\uD558\uB294 \uBD80\uBD84 \uC218\uC5F4\\11053 \uAC00\uC7A5 \uAE34 \uC99D\uAC00\uD558\uB294 \uBD80\uBD84 \uC218\uC5F4\\Exam.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FFDD5EE3-F324-43C1-982D-478E87DE5109}|11053 \uAC00\uC7A5 \uAE34 \uC99D\uAC00\uD558\uB294 \uBD80\uBD84 \uC218\uC5F4\\11053 \uAC00\uC7A5 \uAE34 \uC99D\uAC00\uD558\uB294 \uBD80\uBD84 \uC218\uC5F4.vcxproj|solutionrelative:11053 \uAC00\uC7A5 \uAE34 \uC99D\uAC00\uD558\uB294 \uBD80\uBD84 \uC218\uC5F4\\Exam.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Exam.cpp",
+              "DocumentMoniker": "C:\\Users\\kbhoo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Study\\1\\11053 \uAC00\uC7A5 \uAE34 \uC99D\uAC00\uD558\uB294 \uBD80\uBD84 \uC218\uC5F4\\11053 \uAC00\uC7A5 \uAE34 \uC99D\uAC00\uD558\uB294 \uBD80\uBD84 \uC218\uC5F4\\Exam.cpp",
+              "RelativeDocumentMoniker": "11053 \uAC00\uC7A5 \uAE34 \uC99D\uAC00\uD558\uB294 \uBD80\uBD84 \uC218\uC5F4\\Exam.cpp",
+              "ToolTip": "C:\\Users\\kbhoo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Study\\1\\11053 \uAC00\uC7A5 \uAE34 \uC99D\uAC00\uD558\uB294 \uBD80\uBD84 \uC218\uC5F4\\11053 \uAC00\uC7A5 \uAE34 \uC99D\uAC00\uD558\uB294 \uBD80\uBD84 \uC218\uC5F4\\Exam.cpp",
+              "RelativeToolTip": "11053 \uAC00\uC7A5 \uAE34 \uC99D\uAC00\uD558\uB294 \uBD80\uBD84 \uC218\uC5F4\\Exam.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-05T14:55:37.704Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

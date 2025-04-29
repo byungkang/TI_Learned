@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kbhoo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Study\\0. Do it!\\05 \uD0D0\uC0C9\\01 \uAE4A\uC774 \uC6B0\uC120 \uD0D0\uC0C9\\11724 \uC5F0\uACB0 \uC694\uC18C\uC758 \uAC1C\uC218\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{87B6E1C7-F118-4961-A061-8D02EE75C7CE}|11724 \uC5F0\uACB0 \uC694\uC18C\uC758 \uAC1C\uC218\\11724 \uC5F0\uACB0 \uC694\uC18C\uC758 \uAC1C\uC218.vcxproj|C:\\Users\\kbhoo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Study\\0. Do it!\\05 \uD0D0\uC0C9\\01 \uAE4A\uC774 \uC6B0\uC120 \uD0D0\uC0C9\\11724 \uC5F0\uACB0 \uC694\uC18C\uC758 \uAC1C\uC218\\11724 \uC5F0\uACB0 \uC694\uC18C\uC758 \uAC1C\uC218\\Exam.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{87B6E1C7-F118-4961-A061-8D02EE75C7CE}|11724 \uC5F0\uACB0 \uC694\uC18C\uC758 \uAC1C\uC218\\11724 \uC5F0\uACB0 \uC694\uC18C\uC758 \uAC1C\uC218.vcxproj|solutionrelative:11724 \uC5F0\uACB0 \uC694\uC18C\uC758 \uAC1C\uC218\\Exam.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Exam.cpp",
+              "DocumentMoniker": "C:\\Users\\kbhoo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Study\\0. Do it!\\05 \uD0D0\uC0C9\\01 \uAE4A\uC774 \uC6B0\uC120 \uD0D0\uC0C9\\11724 \uC5F0\uACB0 \uC694\uC18C\uC758 \uAC1C\uC218\\11724 \uC5F0\uACB0 \uC694\uC18C\uC758 \uAC1C\uC218\\Exam.cpp",
+              "RelativeDocumentMoniker": "11724 \uC5F0\uACB0 \uC694\uC18C\uC758 \uAC1C\uC218\\Exam.cpp",
+              "ToolTip": "C:\\Users\\kbhoo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Study\\0. Do it!\\05 \uD0D0\uC0C9\\01 \uAE4A\uC774 \uC6B0\uC120 \uD0D0\uC0C9\\11724 \uC5F0\uACB0 \uC694\uC18C\uC758 \uAC1C\uC218\\11724 \uC5F0\uACB0 \uC694\uC18C\uC758 \uAC1C\uC218\\Exam.cpp",
+              "RelativeToolTip": "11724 \uC5F0\uACB0 \uC694\uC18C\uC758 \uAC1C\uC218\\Exam.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-30T08:05:58.84Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1427 내림차순으로 자릿수 정렬하기", "1427 내림차순으로 자릿수 정렬하기\1427 내림차순으로 자릿수 정렬하기.vcxproj", "{19ABDF16-F55B-4AF3-A81D-B1C28F0273FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19ABDF16-F55B-4AF3-A81D-B1C28F0273FD}.Debug|x64.ActiveCfg = Debug|x64
+		{19ABDF16-F55B-4AF3-A81D-B1C28F0273FD}.Debug|x64.Build.0 = Debug|x64
+		{19ABDF16-F55B-4AF3-A81D-B1C28F0273FD}.Debug|x86.ActiveCfg = Debug|Win32
+		{19ABDF16-F55B-4AF3-A81D-B1C28F0273FD}.Debug|x86.Build.0 = Debug|Win32
+		{19ABDF16-F55B-4AF3-A81D-B1C28F0273FD}.Release|x64.ActiveCfg = Release|x64
+		{19ABDF16-F55B-4AF3-A81D-B1C28F0273FD}.Release|x64.Build.0 = Release|x64
+		{19ABDF16-F55B-4AF3-A81D-B1C28F0273FD}.Release|x86.ActiveCfg = Release|Win32
+		{19ABDF16-F55B-4AF3-A81D-B1C28F0273FD}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {08F42BF0-673C-4392-9D64-FE472C519348}
+	EndGlobalSection
+EndGlobal

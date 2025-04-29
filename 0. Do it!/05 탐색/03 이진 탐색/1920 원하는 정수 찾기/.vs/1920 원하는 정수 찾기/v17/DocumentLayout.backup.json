@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kbhoo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Study\\0. Do it!\\05 \uD0D0\uC0C9\\03 \uC774\uC9C4 \uD0D0\uC0C9\\1920 \uC6D0\uD558\uB294 \uC815\uC218 \uCC3E\uAE30\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{61512327-1DB1-4E62-88BC-B1B436EFF43C}|1920 \uC6D0\uD558\uB294 \uC815\uC218 \uCC3E\uAE30\\1920 \uC6D0\uD558\uB294 \uC815\uC218 \uCC3E\uAE30.vcxproj|C:\\Users\\kbhoo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Study\\0. Do it!\\05 \uD0D0\uC0C9\\03 \uC774\uC9C4 \uD0D0\uC0C9\\1920 \uC6D0\uD558\uB294 \uC815\uC218 \uCC3E\uAE30\\1920 \uC6D0\uD558\uB294 \uC815\uC218 \uCC3E\uAE30\\Exam2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{61512327-1DB1-4E62-88BC-B1B436EFF43C}|1920 \uC6D0\uD558\uB294 \uC815\uC218 \uCC3E\uAE30\\1920 \uC6D0\uD558\uB294 \uC815\uC218 \uCC3E\uAE30.vcxproj|solutionrelative:1920 \uC6D0\uD558\uB294 \uC815\uC218 \uCC3E\uAE30\\Exam2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61512327-1DB1-4E62-88BC-B1B436EFF43C}|1920 \uC6D0\uD558\uB294 \uC815\uC218 \uCC3E\uAE30\\1920 \uC6D0\uD558\uB294 \uC815\uC218 \uCC3E\uAE30.vcxproj|C:\\Users\\kbhoo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Study\\0. Do it!\\05 \uD0D0\uC0C9\\03 \uC774\uC9C4 \uD0D0\uC0C9\\1920 \uC6D0\uD558\uB294 \uC815\uC218 \uCC3E\uAE30\\1920 \uC6D0\uD558\uB294 \uC815\uC218 \uCC3E\uAE30\\Exam.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{61512327-1DB1-4E62-88BC-B1B436EFF43C}|1920 \uC6D0\uD558\uB294 \uC815\uC218 \uCC3E\uAE30\\1920 \uC6D0\uD558\uB294 \uC815\uC218 \uCC3E\uAE30.vcxproj|solutionrelative:1920 \uC6D0\uD558\uB294 \uC815\uC218 \uCC3E\uAE30\\Exam.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Exam2.cpp",
+              "DocumentMoniker": "C:\\Users\\kbhoo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Study\\0. Do it!\\05 \uD0D0\uC0C9\\03 \uC774\uC9C4 \uD0D0\uC0C9\\1920 \uC6D0\uD558\uB294 \uC815\uC218 \uCC3E\uAE30\\1920 \uC6D0\uD558\uB294 \uC815\uC218 \uCC3E\uAE30\\Exam2.cpp",
+              "RelativeDocumentMoniker": "1920 \uC6D0\uD558\uB294 \uC815\uC218 \uCC3E\uAE30\\Exam2.cpp",
+              "ToolTip": "C:\\Users\\kbhoo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Study\\0. Do it!\\05 \uD0D0\uC0C9\\03 \uC774\uC9C4 \uD0D0\uC0C9\\1920 \uC6D0\uD558\uB294 \uC815\uC218 \uCC3E\uAE30\\1920 \uC6D0\uD558\uB294 \uC815\uC218 \uCC3E\uAE30\\Exam2.cpp",
+              "RelativeToolTip": "1920 \uC6D0\uD558\uB294 \uC815\uC218 \uCC3E\uAE30\\Exam2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-15T13:11:44.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Exam.cpp",
+              "DocumentMoniker": "C:\\Users\\kbhoo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Study\\0. Do it!\\05 \uD0D0\uC0C9\\03 \uC774\uC9C4 \uD0D0\uC0C9\\1920 \uC6D0\uD558\uB294 \uC815\uC218 \uCC3E\uAE30\\1920 \uC6D0\uD558\uB294 \uC815\uC218 \uCC3E\uAE30\\Exam.cpp",
+              "RelativeDocumentMoniker": "1920 \uC6D0\uD558\uB294 \uC815\uC218 \uCC3E\uAE30\\Exam.cpp",
+              "ToolTip": "C:\\Users\\kbhoo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Study\\0. Do it!\\05 \uD0D0\uC0C9\\03 \uC774\uC9C4 \uD0D0\uC0C9\\1920 \uC6D0\uD558\uB294 \uC815\uC218 \uCC3E\uAE30\\1920 \uC6D0\uD558\uB294 \uC815\uC218 \uCC3E\uAE30\\Exam.cpp",
+              "RelativeToolTip": "1920 \uC6D0\uD558\uB294 \uC815\uC218 \uCC3E\uAE30\\Exam.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-01T13:53:13.99Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

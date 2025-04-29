@@ -1,0 +1,9 @@
+﻿  Exam.cpp
+C:\Users\kbhoo\OneDrive\바탕 화면\Study\0. Do it!\07 정수론\01 소수 구하기\1929 소수 구하기\1929 소수 구하기\Exam.cpp(18,11): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Sol.cpp
+C:\Users\kbhoo\OneDrive\바탕 화면\Study\0. Do it!\07 정수론\01 소수 구하기\1929 소수 구하기\1929 소수 구하기\Sol.cpp(18,11): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다...
+Sol.obj : error LNK2005: main이(가) Exam.obj에 이미 정의되어 있습니다.
+Sol.obj : error LNK2005: "int * arr" (?arr@@3PAHA)이(가) Exam.obj에 이미 정의되어 있습니다.
+Sol.obj : error LNK2005: "bool * position" (?position@@3PA_NA)이(가) Exam.obj에 이미 정의되어 있습니다.
+C:\Users\kbhoo\OneDrive\바탕 화면\Study\0. Do it!\07 정수론\01 소수 구하기\1929 소수 구하기\x64\Debug\1929 소수 구하기.exe : fatal error LNK1169: 여러 번 정의된 기호가 있습니다.

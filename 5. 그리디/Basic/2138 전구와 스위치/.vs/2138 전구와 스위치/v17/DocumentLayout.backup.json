@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kbhoo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Study\\5. \uADF8\uB9AC\uB514\\Basic\\2138 \uC804\uAD6C\uC640 \uC2A4\uC704\uCE58\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2CCC4686-1253-4244-A3B7-8BEBEB1D1AA4}|2138 \uC804\uAD6C\uC640 \uC2A4\uC704\uCE58\\2138 \uC804\uAD6C\uC640 \uC2A4\uC704\uCE58.vcxproj|C:\\Users\\kbhoo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Study\\5. \uADF8\uB9AC\uB514\\Basic\\2138 \uC804\uAD6C\uC640 \uC2A4\uC704\uCE58\\2138 \uC804\uAD6C\uC640 \uC2A4\uC704\uCE58\\Exam.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2CCC4686-1253-4244-A3B7-8BEBEB1D1AA4}|2138 \uC804\uAD6C\uC640 \uC2A4\uC704\uCE58\\2138 \uC804\uAD6C\uC640 \uC2A4\uC704\uCE58.vcxproj|solutionrelative:2138 \uC804\uAD6C\uC640 \uC2A4\uC704\uCE58\\Exam.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Exam.cpp",
+              "DocumentMoniker": "C:\\Users\\kbhoo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Study\\5. \uADF8\uB9AC\uB514\\Basic\\2138 \uC804\uAD6C\uC640 \uC2A4\uC704\uCE58\\2138 \uC804\uAD6C\uC640 \uC2A4\uC704\uCE58\\Exam.cpp",
+              "RelativeDocumentMoniker": "2138 \uC804\uAD6C\uC640 \uC2A4\uC704\uCE58\\Exam.cpp",
+              "ToolTip": "C:\\Users\\kbhoo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Study\\5. \uADF8\uB9AC\uB514\\Basic\\2138 \uC804\uAD6C\uC640 \uC2A4\uC704\uCE58\\2138 \uC804\uAD6C\uC640 \uC2A4\uC704\uCE58\\Exam.cpp",
+              "RelativeToolTip": "2138 \uC804\uAD6C\uC640 \uC2A4\uC704\uCE58\\Exam.cpp",
+              "ViewState": "AgIAACMAAAAAAAAAAAAIwDoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-09T11:17:37.439Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
